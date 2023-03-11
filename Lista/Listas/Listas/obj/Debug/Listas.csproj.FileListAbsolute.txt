@@ -1,0 +1,7 @@
+B:\Udemy\C#\Lista\Listas\Listas\bin\Debug\Listas.exe.config
+B:\Udemy\C#\Lista\Listas\Listas\bin\Debug\Listas.exe
+B:\Udemy\C#\Lista\Listas\Listas\bin\Debug\Listas.pdb
+B:\Udemy\C#\Lista\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+B:\Udemy\C#\Lista\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+B:\Udemy\C#\Lista\Listas\Listas\obj\Debug\Listas.exe
+B:\Udemy\C#\Lista\Listas\Listas\obj\Debug\Listas.pdb

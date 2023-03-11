@@ -1,0 +1,7 @@
+B:\Udemy\C#\Lista\Listas\ExercicioLIsta\bin\Debug\ExercicioLIsta.exe.config
+B:\Udemy\C#\Lista\Listas\ExercicioLIsta\bin\Debug\ExercicioLIsta.exe
+B:\Udemy\C#\Lista\Listas\ExercicioLIsta\bin\Debug\ExercicioLIsta.pdb
+B:\Udemy\C#\Lista\Listas\ExercicioLIsta\obj\Debug\ExercicioLIsta.csproj.AssemblyReference.cache
+B:\Udemy\C#\Lista\Listas\ExercicioLIsta\obj\Debug\ExercicioLIsta.csproj.CoreCompileInputs.cache
+B:\Udemy\C#\Lista\Listas\ExercicioLIsta\obj\Debug\ExercicioLIsta.exe
+B:\Udemy\C#\Lista\Listas\ExercicioLIsta\obj\Debug\ExercicioLIsta.pdb

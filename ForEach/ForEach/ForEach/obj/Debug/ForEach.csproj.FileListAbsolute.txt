@@ -1,0 +1,7 @@
+B:\Udemy\C#\ForEach\ForEach\ForEach\bin\Debug\ForEach.exe.config
+B:\Udemy\C#\ForEach\ForEach\ForEach\bin\Debug\ForEach.exe
+B:\Udemy\C#\ForEach\ForEach\ForEach\bin\Debug\ForEach.pdb
+B:\Udemy\C#\ForEach\ForEach\ForEach\obj\Debug\ForEach.csproj.AssemblyReference.cache
+B:\Udemy\C#\ForEach\ForEach\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+B:\Udemy\C#\ForEach\ForEach\ForEach\obj\Debug\ForEach.exe
+B:\Udemy\C#\ForEach\ForEach\ForEach\obj\Debug\ForEach.pdb

@@ -1,0 +1,7 @@
+B:\Udemy\C#\Matrizes\Matrizes\ExercicioResolvidoMatriz\bin\Debug\ExercicioResolvidoMatriz.exe.config
+B:\Udemy\C#\Matrizes\Matrizes\ExercicioResolvidoMatriz\bin\Debug\ExercicioResolvidoMatriz.exe
+B:\Udemy\C#\Matrizes\Matrizes\ExercicioResolvidoMatriz\bin\Debug\ExercicioResolvidoMatriz.pdb
+B:\Udemy\C#\Matrizes\Matrizes\ExercicioResolvidoMatriz\obj\Debug\ExercicioResolvidoMatriz.csproj.CoreCompileInputs.cache
+B:\Udemy\C#\Matrizes\Matrizes\ExercicioResolvidoMatriz\obj\Debug\ExercicioResolvidoMatriz.exe
+B:\Udemy\C#\Matrizes\Matrizes\ExercicioResolvidoMatriz\obj\Debug\ExercicioResolvidoMatriz.pdb
+B:\Udemy\C#\Matrizes\Matrizes\ExercicioResolvidoMatriz\obj\Debug\ExercicioResolvidoMatriz.csproj.AssemblyReference.cache

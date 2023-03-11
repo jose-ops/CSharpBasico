@@ -1,0 +1,7 @@
+B:\Udemy\C#\Matrizes\Matrizes\Matrizes\bin\Debug\Matrizes.exe.config
+B:\Udemy\C#\Matrizes\Matrizes\Matrizes\bin\Debug\Matrizes.exe
+B:\Udemy\C#\Matrizes\Matrizes\Matrizes\bin\Debug\Matrizes.pdb
+B:\Udemy\C#\Matrizes\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.AssemblyReference.cache
+B:\Udemy\C#\Matrizes\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.CoreCompileInputs.cache
+B:\Udemy\C#\Matrizes\Matrizes\Matrizes\obj\Debug\Matrizes.exe
+B:\Udemy\C#\Matrizes\Matrizes\Matrizes\obj\Debug\Matrizes.pdb

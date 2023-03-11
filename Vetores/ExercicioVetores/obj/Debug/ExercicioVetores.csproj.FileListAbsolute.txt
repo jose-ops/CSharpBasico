@@ -1,0 +1,7 @@
+B:\Udemy\C#\Vetores\ExercicioVetores\bin\Debug\ExercicioVetores.exe.config
+B:\Udemy\C#\Vetores\ExercicioVetores\bin\Debug\ExercicioVetores.exe
+B:\Udemy\C#\Vetores\ExercicioVetores\bin\Debug\ExercicioVetores.pdb
+B:\Udemy\C#\Vetores\ExercicioVetores\obj\Debug\ExercicioVetores.csproj.AssemblyReference.cache
+B:\Udemy\C#\Vetores\ExercicioVetores\obj\Debug\ExercicioVetores.csproj.CoreCompileInputs.cache
+B:\Udemy\C#\Vetores\ExercicioVetores\obj\Debug\ExercicioVetores.exe
+B:\Udemy\C#\Vetores\ExercicioVetores\obj\Debug\ExercicioVetores.pdb
