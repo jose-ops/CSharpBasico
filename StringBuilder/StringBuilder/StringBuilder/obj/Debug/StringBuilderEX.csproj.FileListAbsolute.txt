@@ -1,0 +1,2 @@
+B:\Udemy\C#\StringBuilder\StringBuilder\StringBuilder\obj\Debug\StringBuilderEX.csproj.AssemblyReference.cache
+B:\Udemy\C#\StringBuilder\StringBuilder\StringBuilder\obj\Debug\StringBuilderEX.csproj.CoreCompileInputs.cache

@@ -12,13 +12,13 @@ namespace PropriedadesDateTime
         {
             DateTime d = new DateTime(2001, 8, 15, 13, 45, 58, 275, DateTimeKind.Local);
 
-            DateTime d2 = new DateTime(2001, 8, 15, 13, 45, 58, 275, DateTimeKind.Utc);
+            DateTime d1 = new DateTime(2001, 8, 15, 13, 45, 58, 275, DateTimeKind.Utc);
 
             Console.WriteLine(d);//convert string para dateTime
-            Console.WriteLine(d2.ToUniversalTime());
+            Console.WriteLine(d1.ToUniversalTime());
             Console.WriteLine("1) Date: " + d.Date);
             Console.WriteLine("2) Day: " + d.Day);
-            Console.WriteLine("3) DayOfWeek: " + d.DayOfWeek);
+            Console.WriteLine("3) DayOfWeek: " + d.DayOfWeek);  
             Console.WriteLine("4) DayOfYear: " + d.DayOfYear);
             Console.WriteLine("5) Hour: " + d.Hour);
             Console.WriteLine("6) Kind: " + d.Kind);
@@ -47,7 +47,6 @@ namespace PropriedadesDateTime
             Console.WriteLine(s7);
 
             //DateTime day = new DateTime(2001, 8, 15, 13, 45, 58, 275);
-
             //DateTime y = day.Add(timeSpan);
             //DateTime y = x.AddDays(double);
             //DateTime y = x.AddHours(double);
@@ -73,13 +72,13 @@ namespace PropriedadesDateTime
             //Console.WriteLine(mult);
             //Console.WriteLine(div);
 
-            DateTime d1 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Local);
+            DateTime d0 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Local);
             DateTime d2 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Utc);
             DateTime d3 = new DateTime(2000, 8, 15, 13, 5, 58);
-            Console.WriteLine("d1: " + d1);
-            Console.WriteLine("d1 Kind: " + d1.Kind);
-            Console.WriteLine("d1 to Local: " + d1.ToLocalTime());
-            Console.WriteLine("d1 to Utc: " + d1.ToUniversalTime());
+            Console.WriteLine("d1: " + d0);
+            Console.WriteLine("d1 Kind: " + d0.Kind);
+            Console.WriteLine("d1 to Local: " + d0.ToLocalTime());
+            Console.WriteLine("d1 to Utc: " + d0.ToUniversalTime());
             Console.WriteLine();
             Console.WriteLine("d2: " + d2);
             Console.WriteLine("d2 Kind: " + d2.Kind);

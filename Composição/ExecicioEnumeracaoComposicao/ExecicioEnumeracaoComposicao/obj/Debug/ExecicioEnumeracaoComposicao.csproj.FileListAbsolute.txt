@@ -1,0 +1,7 @@
+B:\Udemy\C#\Composição\ExecicioEnumeracaoComposicao\ExecicioEnumeracaoComposicao\bin\Debug\ExecicioEnumeracaoComposicao.exe.config
+B:\Udemy\C#\Composição\ExecicioEnumeracaoComposicao\ExecicioEnumeracaoComposicao\bin\Debug\ExecicioEnumeracaoComposicao.exe
+B:\Udemy\C#\Composição\ExecicioEnumeracaoComposicao\ExecicioEnumeracaoComposicao\bin\Debug\ExecicioEnumeracaoComposicao.pdb
+B:\Udemy\C#\Composição\ExecicioEnumeracaoComposicao\ExecicioEnumeracaoComposicao\obj\Debug\ExecicioEnumeracaoComposicao.csproj.AssemblyReference.cache
+B:\Udemy\C#\Composição\ExecicioEnumeracaoComposicao\ExecicioEnumeracaoComposicao\obj\Debug\ExecicioEnumeracaoComposicao.csproj.CoreCompileInputs.cache
+B:\Udemy\C#\Composição\ExecicioEnumeracaoComposicao\ExecicioEnumeracaoComposicao\obj\Debug\ExecicioEnumeracaoComposicao.exe
+B:\Udemy\C#\Composição\ExecicioEnumeracaoComposicao\ExecicioEnumeracaoComposicao\obj\Debug\ExecicioEnumeracaoComposicao.pdb
