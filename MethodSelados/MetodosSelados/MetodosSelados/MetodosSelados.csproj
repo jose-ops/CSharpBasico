@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5E13C302-67CC-4495-B305-F31631CA1B2F}</ProjectGuid>
+    <ProjectGuid>{8BCAB94A-C0C5-4C79-815E-28969E52296D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>sobreposicaoVirtualOverrideeBase</RootNamespace>
-    <AssemblyName>sobreposicaoVirtualOverrideeBase</AssemblyName>
+    <RootNamespace>MetodosSelados</RootNamespace>
+    <AssemblyName>MetodosSelados</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Account.cs" />
-    <Compile Include="Entities\BusinessAccount.cs" />
-    <Compile Include="Entities\SavingAccount.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
