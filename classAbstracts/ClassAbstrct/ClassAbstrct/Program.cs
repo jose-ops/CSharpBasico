@@ -33,6 +33,8 @@ namespace Course
             {
                 Console.WriteLine("Update balance for account" + acc.Number + ": " + acc.Balance.ToString("F2", CultureInfo.InvariantCulture));
             }
+
+            Console.ReadKey();
         }
     }
 }
