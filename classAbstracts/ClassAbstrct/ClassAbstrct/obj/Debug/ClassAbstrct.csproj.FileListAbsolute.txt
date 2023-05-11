@@ -1,7 +1,0 @@
-B:\Udemy\C#\classAbstracts\ClassAbstrct\ClassAbstrct\bin\Debug\ClassAbstrct.exe.config
-B:\Udemy\C#\classAbstracts\ClassAbstrct\ClassAbstrct\bin\Debug\ClassAbstrct.exe
-B:\Udemy\C#\classAbstracts\ClassAbstrct\ClassAbstrct\bin\Debug\ClassAbstrct.pdb
-B:\Udemy\C#\classAbstracts\ClassAbstrct\ClassAbstrct\obj\Debug\ClassAbstrct.csproj.AssemblyReference.cache
-B:\Udemy\C#\classAbstracts\ClassAbstrct\ClassAbstrct\obj\Debug\ClassAbstrct.csproj.CoreCompileInputs.cache
-B:\Udemy\C#\classAbstracts\ClassAbstrct\ClassAbstrct\obj\Debug\ClassAbstrct.exe
-B:\Udemy\C#\classAbstracts\ClassAbstrct\ClassAbstrct\obj\Debug\ClassAbstrct.pdb
