@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAbstrct", "ClassAbstrc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMetodoAbstrato", "ExercicioMetodoAbstrato\ExercicioMetodoAbstrato.csproj", "{A771A07A-062B-4396-9EEF-4E477869D731}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosPolimorfismo", "ExerciciosPolimorfismo\ExerciciosPolimorfismo.csproj", "{CAC5FE12-3ED9-428C-B933-81F1D7204474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A771A07A-062B-4396-9EEF-4E477869D731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A771A07A-062B-4396-9EEF-4E477869D731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A771A07A-062B-4396-9EEF-4E477869D731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC5FE12-3ED9-428C-B933-81F1D7204474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC5FE12-3ED9-428C-B933-81F1D7204474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC5FE12-3ED9-428C-B933-81F1D7204474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC5FE12-3ED9-428C-B933-81F1D7204474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
